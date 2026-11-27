@@ -1,0 +1,10 @@
+{
+  "name": "gatekeeper-test-repo",
+  "version": "1.0.0",
+  "description": "Deliberately risky demo repo for the Gatekeeper agent (Agentware 2026).",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
